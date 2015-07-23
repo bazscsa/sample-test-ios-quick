@@ -34,7 +34,7 @@ class BitriseTestingSampleTests: QuickSpec {
                 let variable = self.viewController.variable
                 let label = self.viewController.testButton
                 self.viewController.testButtonTouched(self)
-                expect(variable).to(beLessThan(self.viewController.variable))
+                expect(variable).toNot(beLessThan(self.viewController.variable))
             }
         }
     }
