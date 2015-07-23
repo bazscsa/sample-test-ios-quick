@@ -6,4 +6,4 @@ This is a sample iOS project which
 uses the [Quick](https://github.com/Quick/Quick/tree/master/Documentation)
 testing framework.
 
-This sample project is tested with [bitrise.io](https://bitrise.io/).
+This sample project is tested with [bitrise.io](https://bitrise.io/)
